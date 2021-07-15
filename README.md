@@ -1,7 +1,7 @@
 # Competitive_Programming
 Competitive_Programming: Pratice coding the competitive programming, the follow reference is UVa question
 
-hw1:
+hw1:  
 100 The 3n + 1 problem  
 10189 Minesweeper  
 10137 The Trip  
@@ -11,7 +11,7 @@ hw1:
 10196 Check The Check  
 10142 Australian Voting  
 
-hw2:
+hw2:  
 10038 Jolly Jumpers  
 10315 Poker Hands  
 10050 Hartals  
@@ -21,7 +21,7 @@ hw2:
 10258 Contest Scoreboard  
 10149 Yahtzee  
 
-hw3:
+hw3:  
 10082 WERTYU  
 10010 Where’s Waldorf?  
 10252 Common Permutation  
@@ -31,7 +31,7 @@ hw3:
 10150 Doublets  
 848 Fmt  
 
-hw4:
+hw4:  
 10041 Vito’s Family  
 120 Stacks of Flapjacks  
 10037 Bridge  
